@@ -1,0 +1,35 @@
+h1{
+  color: #4B4B4B;
+  font-weight: normal;
+  font-size: 60px;
+  font-family: Homer Simpson UI;
+  /* text-transform: uppercase; */
+  padding-bottom: 5%;
+  padding-top: 3%;
+  font-style: oblique;
+  
+}
+
+h2 {
+    color: #22491e;
+    font-weight: normal;
+    font-size: 20px;
+    font-family: Arial;
+    /* text-transform: uppercase; */
+    background-color: aliceblue;
+}
+
+#datosPersonaje{
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 5%;
+    background-color:rgb(70, 158, 158);
+    border-style:solid;
+
+}
+
+img{
+    border-style:solid; 
+  
+}
+
